@@ -1,4 +1,5 @@
-#[cfg(test)]
+mod dom;
+
 mod tests {
     #[test]
     fn it_works() {
